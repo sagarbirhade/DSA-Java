@@ -1,0 +1,5 @@
+class InvertedHalfPyramidNumbers{
+    public static void main(String[] ags){
+        
+    }
+}
